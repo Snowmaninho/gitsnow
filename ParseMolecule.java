@@ -8,7 +8,7 @@ import java.util.Map;
 class ParseMolecule {
 
     public static void main(String[] args) {
-        System.out.println(getAtoms("K4[ON(SO3)2]2"));
+        System.out.println(getAtoms("K4[ON(SO3)2]2"));  // example
     }
 
 
